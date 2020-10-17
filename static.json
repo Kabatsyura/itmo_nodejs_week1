@@ -1,0 +1,8 @@
+{
+  "headers:" {
+     "/*": {
+       "X-Author": "kabatsyura",
+       "Access-Control-Allow-Origin": "*"
+     }
+   }
+}
